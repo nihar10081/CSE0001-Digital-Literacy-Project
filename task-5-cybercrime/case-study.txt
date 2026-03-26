@@ -1,0 +1,9 @@
+# Case Study: UPI / Online Payment Fraud
+
+**The Crime:** UPI (Unified Payments Interface) fraud occurs when cybercriminals manipulate victims into authorizing fraudulent money transfers directly from their bank accounts using digital payment apps. 
+
+**How it Happens:** A common scenario involves a scammer posting a fake customer service number for a popular service (like a food delivery app or airline). When a victim calls the number to resolve an issue, the scammer poses as an agent. The scammer apologizes for the inconvenience and offers a "refund." They then send a UPI collection request to the victim's phone or ask them to download a screen-sharing app. The victim, believing they are receiving money, enters their UPI PIN to approve the transaction. However, entering a PIN always *sends* money, it never receives it. 
+
+**Target Demographic:** College students and young professionals who frequently use digital payment apps for daily transactions are prime targets, especially those distracted or in a rush to secure a refund. 
+
+**The Consequences:** Victims suffer immediate, irreversible financial loss. Because the victim technically authorized the payment by entering their PIN, banks often cannot reverse the transaction. This leads to severe financial stress for students living on tight budgets and can compromise their linked banking credentials, requiring complete account freezes.

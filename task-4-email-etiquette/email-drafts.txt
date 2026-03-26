@@ -1,0 +1,35 @@
+Email 1: Extension Request
+Subject: Request for Deadline Extension - Digital Logic Circuits Assignment 3
+
+Dear Professor Stark,
+
+I hope this email finds you well. 
+
+I am writing to respectfully request a short extension for Assignment 3 regarding logic gates and Boolean algebra theorems, which is currently due on Friday. Unfortunately, I have been dealing with an unexpected family emergency this week that has limited my ability to complete the work to my usual standard. 
+
+Would it be possible to submit the assignment by Monday morning instead? I have already completed the circuit diagrams but need a bit more time to finalize the write-up. 
+
+Thank you for your time and understanding. 
+
+Best regards,
+Nihar Samanta
+25BCY10081
+
+---
+Email 2: Internship Interest
+Subject: Summer Internship Inquiry - Python Backend Development
+
+Dear Mr. Stark,
+
+I hope you are having a great week. 
+
+My name is [Your Name], and I am a B.Tech student at VIT Bhopal University. I am reaching out to express my strong interest in the Summer Internship opportunities at [Company Name]. I have been following your team's recent work on productivity applications and am highly impressed by your platform's architecture. 
+
+I have practical experience building web applications using Python and Flask, and I am eager to contribute my backend development skills to a dynamic team like yours. I have attached my resume and a link to my GitHub portfolio for your review. 
+
+Thank you for your time and consideration. I look forward to the possibility of discussing how I can add value to your team.
+
+Sincerely,
+Nihar Samanta
+25BCY10081
+https://github.com/nihar10081
